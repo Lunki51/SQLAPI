@@ -1,0 +1,4 @@
+name: SQLAPI
+main: fr.lunki.sqlapi.SQLAPI
+version: 1.0
+description: SQL API for the plugins made by Lunki.
